@@ -5,25 +5,25 @@ This guide is designed to assist program administrators of residential energy
 efficiency programs with the implementation of the Building Performance
 Institute (BPI) BPI-2100 and BPI-2200 data standards commonly referred to as
 ("HPXML").  The adoption of these data standards offers programs a wealth of
-opportunities to grow your energy efficiency initiatives, while significantly
-reducing your costs. Combined with the companion technical guide for software
-implementers, this document should provide you with the tools you need to
-identify the potential for data standards in your jurisdiction and give you the
-basic guidance for developing an implementation plan that meets your program
+opportunities to grow energy efficiency initiatives, while significantly
+reducing  costs. Combined with the companion technical guide for software
+implementers, this document should provide the tools needed to
+identify the potential for data standards in your jurisdiction and the
+basic guidance for developing an implementation plan that meets program
 needs.
 
 What are the BPI Data Standards?
 ********************************
 
-The BPI data standards are designed to  help you collect and transfer
+The BPI data standards are designed to  help collect and transfer
 information about residential building characteristics and project information.
-You can share this data with any party involved in a home performance or
+This data can be shared with any party involved in a home performance or
 energy-efficiency program, including contractors, program administrators,
-utilities, federal agencies, and others. This gives you a standardized way to
+utilities, federal agencies, and others. This gives programs a standardized way to
 collect project information and to share that information to facilitate market
 growth.
 
-The two primary data standards, BPI-2100 and BPI-2200 are closely related and
+The two BPI-authored data standards, BPI-2100 and BPI-2200, are closely related and
 are used together to implement HPXML:
 
 BPI-2100-S-2013: Standard for Home Performance-Related Data Transfer
@@ -36,6 +36,7 @@ BPI-2200-S-2013: Standard for Home Performance-Related Data Collection
     buildings, energy consumption, and energy conservation measures. Each of
     the data elements defined in BPI-2200 can be transferred using HPXML via
     the methodology outlined in BPI-2100.    
+The following should be placed into an appendix or informative endnote section up to the "Data Standards and the DOE's..."
 
 BPI is developing additional data collection standards, each of which specify a
 set of data elements to be collected at specific points during the
